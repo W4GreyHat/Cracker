@@ -16,3 +16,9 @@ $ python2 Crack.py
 
 
 # Login Menggunakan Token.
+
+
+Link Token : https://m.facebook.com/composer/ocelot/async_loader/?publisher=feed
+
+
+Kemudian Cari Tulisan EAAAA Copy Dan Tempelkan Di Termux
